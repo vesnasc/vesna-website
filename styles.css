@@ -44,10 +44,10 @@ a:link {
   text-decoration: underline;
 }
 
-/* a:visited {
-  color: #0c35b9;
+a:visited {
+  color: #430f74;
   text-decoration: underline;
-} */
+}
 
 /* Bold Text */
 b {
