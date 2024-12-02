@@ -1,32 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
 
 <url>
   <loc>https://vsesumcavic.com/</loc>
-  <lastmod>2024-11-30T16:56:10+00:00</lastmod>
+  <lastmod>2024-12-01T13:35:56+00:00</lastmod>
   <priority>1.00</priority>
+  <image:image>
+    <image:loc>https://vsesumcavic.com/images/VesnaNew.BMP</image:loc>
+    <image:title>Portrait of Vesna Sesum-Cavic</image:title>
+  </image:image>
 </url>
-<url>
-  <loc>https://vsesumcavic.com/Publications.html</loc>
-  <lastmod>2024-11-30T16:56:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://vsesumcavic.com/Teaching.html</loc>
-  <lastmod>2024-11-30T16:56:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
+
 <url>
   <loc>https://vsesumcavic.com/Contact.html</loc>
-  <lastmod>2024-11-30T16:56:10+00:00</lastmod>
+  <lastmod>2024-12-01T13:35:56+00:00</lastmod>
+  <priority>0.80</priority>
+  <image:image>
+    <image:loc>https://vsesumcavic.com/images/ijcci.jpg</image:loc>
+    <image:title>Vesna Sesum-Cavic at IJCCI</image:title>
+  </image:image>
+  <image:image>
+    <image:loc>https://vsesumcavic.com/images/NY.jpg</image:loc>
+    <image:title>Vesna Sesum-Cavic in New York</image:title>
+  </image:image>
+  <image:image>
+    <image:loc>https://vsesumcavic.com/images/icsi3.jpg</image:loc>
+    <image:title>Vesna Sesum-Cavic at ICSI</image:title>
+  </image:image>
+  <image:image>
+    <image:loc>https://vsesumcavic.com/images/Kina-179.jpeg</image:loc>
+    <image:title>Vesna Sesum-Cavic at ICSI</image:title>
+  </image:image>
+  <image:image>
+    <image:loc>https://vsesumcavic.com/images/TUWien.jpg</image:loc>
+    <image:title>Vesna Sesum-Cavic at TUWien</image:title>
+  </image:image>
+  <image:image>
+    <image:loc>https://vsesumcavic.com/images/StPeters.jpg</image:loc>
+    <image:title>Vesna Sesum-Cavic in St. Petersburg</image:title>
+  </image:image>
+  <image:image>
+    <image:loc>https://vsesumcavic.com/images/Athens.jpg</image:loc>
+    <image:title>Vesna Sesum-Cavic in Athens</image:title>
+  </image:image>
+  <image:image>
+    <image:loc>https://vsesumcavic.com/images/Holland.bmp</image:loc>
+    <image:title>Vesna Sesum-Cavic at ESAW</image:title>
+  </image:image>
+  <image:image>
+    <image:loc>https://vsesumcavic.com/images/Paris.jpg</image:loc>
+    <image:title>Vesna Sesum-Cavic in Paris</image:title>
+  </image:image>
+  <image:image>
+    <image:loc>https://vsesumcavic.com/images/London.jpg</image:loc>
+    <image:title>Vesna Sesum-Cavic in London</image:title>
+  </image:image>
+  <image:image>
+    <image:loc>https://vsesumcavic.com/images/Barcelona.BMP</image:loc>
+    <image:title>Vesna Sesum-Cavic in Barcelona</image:title>
+  </image:image>
+  <image:image>
+    <image:loc>https://vsesumcavic.com/images/Rome.jpg</image:loc>
+    <image:title>Vesna Sesum-Cavic in Rome</image:title>
+  </image:image>
+</url>
+
+<url>
+  <loc>https://vsesumcavic.com/Publications.html</loc>
+  <lastmod>2024-12-01T13:35:56+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
+<url>
+  <loc>https://vsesumcavic.com/Teaching.html</loc>
+  <lastmod>2024-12-01T13:35:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
 
 </urlset>
